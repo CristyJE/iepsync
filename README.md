@@ -1,7 +1,7 @@
 # 🔗 IEPSync
 
 > **An IEP Goals Tracker for the Whole Team**  
-> Built for the NeuroKind Hackathon · Powered by Microsoft Azure
+> Built for the CWB Hackathon · Powered by Microsoft Azure
 
 IEPSync is a cloud-based, multi-user Individualized Education Plan (IEP) Goals Tracker that gives parents, therapists, teachers, and school administrators one shared platform to log, track, and visualize a child's IEP goals in real time — eliminating the coordination failure at the heart of special education.
 
