@@ -159,5 +159,5 @@ iepsync/
 
 ## 👤 Author
 
-[Your Name] · [LinkedIn URL]  
-Built for the **NeuroKind Hackathon** — Universal Design for people with disabilities.
+[Cristina Estampador] · [[LinkedIn URL](https://www.linkedin.com/in/cristina-estampador-ab24355/)]  
+Built for the **CWB Hackathon** — Universal Design for people with disabilities.
